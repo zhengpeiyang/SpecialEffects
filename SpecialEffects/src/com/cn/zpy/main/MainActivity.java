@@ -20,7 +20,7 @@ public class MainActivity extends Activity implements OnClickListener{
 		setContentView(R.layout.activity_main);
 		btn1 = (Button) findViewById(R.id.main_btn1);
 		btn2 = (Button) findViewById(R.id.main_btn2);
-		//peiyang111111111
+		//peiyang111111111321
 		btn1.setOnClickListener(this);
 		btn2.setOnClickListener(this);
 	}
