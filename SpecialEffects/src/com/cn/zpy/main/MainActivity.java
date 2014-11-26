@@ -21,6 +21,10 @@ public class MainActivity extends Activity implements OnClickListener{
 		btn1 = (Button) findViewById(R.id.main_btn1);
 		btn2 = (Button) findViewById(R.id.main_btn2);
 		//peiyang111111111
+
+
+
+
 		btn1.setOnClickListener(this);
 		btn2.setOnClickListener(this);
 	}
